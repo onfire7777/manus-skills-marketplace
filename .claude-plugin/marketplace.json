@@ -1,0 +1,179 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "manus-skills-marketplace",
+  "description": "770 production-quality skills organized into 14 themed plugins (security, design, thinking, planning, ...)",
+  "owner": {
+    "name": "onfire7777",
+    "url": "https://github.com/onfire7777"
+  },
+  "plugins": [
+    {
+      "name": "manus-security",
+      "description": "Security skills: pentesting, exploits, hardening, crypto, AppSec/NetSec",
+      "category": "skills",
+      "source": "./plugins/manus-security",
+      "homepage": "https://github.com/onfire7777/manus-skills-marketplace/tree/main/plugins/manus-security",
+      "author": {
+        "name": "onfire7777",
+        "url": "https://github.com/onfire7777"
+      },
+      "version": "1.0.0"
+    },
+    {
+      "name": "manus-privacy",
+      "description": "Privacy and compliance: GDPR/CCPA/HIPAA, DPIAs, AI Act, ISO 27701",
+      "category": "skills",
+      "source": "./plugins/manus-privacy",
+      "homepage": "https://github.com/onfire7777/manus-skills-marketplace/tree/main/plugins/manus-privacy",
+      "author": {
+        "name": "onfire7777",
+        "url": "https://github.com/onfire7777"
+      },
+      "version": "1.0.0"
+    },
+    {
+      "name": "manus-design",
+      "description": "Frontend and design: UI/UX, web frontend, design systems, accessibility",
+      "category": "skills",
+      "source": "./plugins/manus-design",
+      "homepage": "https://github.com/onfire7777/manus-skills-marketplace/tree/main/plugins/manus-design",
+      "author": {
+        "name": "onfire7777",
+        "url": "https://github.com/onfire7777"
+      },
+      "version": "1.0.0"
+    },
+    {
+      "name": "manus-backend",
+      "description": "Backend architecture: APIs, system design, distributed systems, databases",
+      "category": "skills",
+      "source": "./plugins/manus-backend",
+      "homepage": "https://github.com/onfire7777/manus-skills-marketplace/tree/main/plugins/manus-backend",
+      "author": {
+        "name": "onfire7777",
+        "url": "https://github.com/onfire7777"
+      },
+      "version": "1.0.0"
+    },
+    {
+      "name": "manus-devops",
+      "description": "DevOps and infrastructure: CI/CD, containers, cloud, IaC, SRE",
+      "category": "skills",
+      "source": "./plugins/manus-devops",
+      "homepage": "https://github.com/onfire7777/manus-skills-marketplace/tree/main/plugins/manus-devops",
+      "author": {
+        "name": "onfire7777",
+        "url": "https://github.com/onfire7777"
+      },
+      "version": "1.0.0"
+    },
+    {
+      "name": "manus-ai",
+      "description": "AI and prompt engineering: LLM apps, agents, RAG, evals",
+      "category": "skills",
+      "source": "./plugins/manus-ai",
+      "homepage": "https://github.com/onfire7777/manus-skills-marketplace/tree/main/plugins/manus-ai",
+      "author": {
+        "name": "onfire7777",
+        "url": "https://github.com/onfire7777"
+      },
+      "version": "1.0.0"
+    },
+    {
+      "name": "manus-data",
+      "description": "Data analysis: analytics, viz, statistics, ML/data pipelines",
+      "category": "skills",
+      "source": "./plugins/manus-data",
+      "homepage": "https://github.com/onfire7777/manus-skills-marketplace/tree/main/plugins/manus-data",
+      "author": {
+        "name": "onfire7777",
+        "url": "https://github.com/onfire7777"
+      },
+      "version": "1.0.0"
+    },
+    {
+      "name": "manus-thinking",
+      "description": "Reasoning and thinking: mental models, critical thinking, epistemics",
+      "category": "skills",
+      "source": "./plugins/manus-thinking",
+      "homepage": "https://github.com/onfire7777/manus-skills-marketplace/tree/main/plugins/manus-thinking",
+      "author": {
+        "name": "onfire7777",
+        "url": "https://github.com/onfire7777"
+      },
+      "version": "1.0.0"
+    },
+    {
+      "name": "manus-creative",
+      "description": "Creativity and innovation: creative writing, art, ideation",
+      "category": "skills",
+      "source": "./plugins/manus-creative",
+      "homepage": "https://github.com/onfire7777/manus-skills-marketplace/tree/main/plugins/manus-creative",
+      "author": {
+        "name": "onfire7777",
+        "url": "https://github.com/onfire7777"
+      },
+      "version": "1.0.0"
+    },
+    {
+      "name": "manus-strategy",
+      "description": "Planning and strategy: PM, strategic planning, roadmaps, OKRs",
+      "category": "skills",
+      "source": "./plugins/manus-strategy",
+      "homepage": "https://github.com/onfire7777/manus-skills-marketplace/tree/main/plugins/manus-strategy",
+      "author": {
+        "name": "onfire7777",
+        "url": "https://github.com/onfire7777"
+      },
+      "version": "1.0.0"
+    },
+    {
+      "name": "manus-comms",
+      "description": "Communication: writing, presentations, facilitation, leadership",
+      "category": "skills",
+      "source": "./plugins/manus-comms",
+      "homepage": "https://github.com/onfire7777/manus-skills-marketplace/tree/main/plugins/manus-comms",
+      "author": {
+        "name": "onfire7777",
+        "url": "https://github.com/onfire7777"
+      },
+      "version": "1.0.0"
+    },
+    {
+      "name": "manus-quality",
+      "description": "Quality engineering: code review, testing, debugging, refactoring",
+      "category": "skills",
+      "source": "./plugins/manus-quality",
+      "homepage": "https://github.com/onfire7777/manus-skills-marketplace/tree/main/plugins/manus-quality",
+      "author": {
+        "name": "onfire7777",
+        "url": "https://github.com/onfire7777"
+      },
+      "version": "1.0.0"
+    },
+    {
+      "name": "manus-meta",
+      "description": "Meta-skills: skill creation, learning, productivity",
+      "category": "skills",
+      "source": "./plugins/manus-meta",
+      "homepage": "https://github.com/onfire7777/manus-skills-marketplace/tree/main/plugins/manus-meta",
+      "author": {
+        "name": "onfire7777",
+        "url": "https://github.com/onfire7777"
+      },
+      "version": "1.0.0"
+    },
+    {
+      "name": "manus-domain",
+      "description": "Narrow verticals: medical, legal, finance, scientific domains",
+      "category": "skills",
+      "source": "./plugins/manus-domain",
+      "homepage": "https://github.com/onfire7777/manus-skills-marketplace/tree/main/plugins/manus-domain",
+      "author": {
+        "name": "onfire7777",
+        "url": "https://github.com/onfire7777"
+      },
+      "version": "1.0.0"
+    }
+  ]
+}

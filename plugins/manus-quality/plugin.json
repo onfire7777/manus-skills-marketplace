@@ -1,0 +1,9 @@
+{
+  "name": "manus-quality",
+  "description": "Quality engineering: code review, testing, debugging, refactoring",
+  "version": "1.0.0",
+  "author": {
+    "name": "onfire7777",
+    "url": "https://github.com/onfire7777"
+  }
+}
