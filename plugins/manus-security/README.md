@@ -8,7 +8,7 @@ Security skills: pentesting, exploits, hardening, crypto, AppSec/NetSec
 
 ```bash
 /plugin marketplace add onfire7777/manus-skills-marketplace
-/plugin install manus-security
+/plugin install manus-security@manus-skills-marketplace
 ```
 
 ## Skills included
