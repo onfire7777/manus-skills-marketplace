@@ -1,0 +1,28 @@
+{
+  "name": "manus-quality-engineering",
+  "version": "1.0.0",
+  "description": "Quality engineering: code review, testing, debugging, refactoring",
+  "author": {
+    "name": "onfire7777",
+    "url": "https://github.com/onfire7777"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/onfire7777/manus-skills-codex/tree/main/plugins/manus-quality-engineering",
+  "repository": "https://github.com/onfire7777/manus-skills-codex",
+  "keywords": [
+    "skills",
+    "codex",
+    "quality-engineering"
+  ],
+  "skills": "./skills",
+  "interface": {
+    "displayName": "Manus Quality Engineering",
+    "shortDescription": "Quality engineering: code review, testing, debugging, refactoring",
+    "longDescription": "Quality engineering: code review, testing, debugging, refactoring",
+    "developerName": "onfire7777",
+    "category": "skills",
+    "capabilities": [
+      "skills"
+    ]
+  }
+}

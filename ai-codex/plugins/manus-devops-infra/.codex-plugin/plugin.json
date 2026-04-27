@@ -1,0 +1,28 @@
+{
+  "name": "manus-devops-infra",
+  "version": "1.0.0",
+  "description": "DevOps and infrastructure: CI/CD, containers, cloud, IaC, SRE",
+  "author": {
+    "name": "onfire7777",
+    "url": "https://github.com/onfire7777"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/onfire7777/manus-skills-codex/tree/main/plugins/manus-devops-infra",
+  "repository": "https://github.com/onfire7777/manus-skills-codex",
+  "keywords": [
+    "skills",
+    "codex",
+    "devops-infra"
+  ],
+  "skills": "./skills",
+  "interface": {
+    "displayName": "Manus Devops Infra",
+    "shortDescription": "DevOps and infrastructure: CI/CD, containers, cloud, IaC, SRE",
+    "longDescription": "DevOps and infrastructure: CI/CD, containers, cloud, IaC, SRE",
+    "developerName": "onfire7777",
+    "category": "skills",
+    "capabilities": [
+      "skills"
+    ]
+  }
+}

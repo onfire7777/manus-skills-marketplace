@@ -1,0 +1,28 @@
+{
+  "name": "manus-ai-prompt-engineering",
+  "version": "1.0.0",
+  "description": "AI and prompt engineering: LLM apps, agents, RAG, evals",
+  "author": {
+    "name": "onfire7777",
+    "url": "https://github.com/onfire7777"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/onfire7777/manus-skills-codex/tree/main/plugins/manus-ai-prompt-engineering",
+  "repository": "https://github.com/onfire7777/manus-skills-codex",
+  "keywords": [
+    "skills",
+    "codex",
+    "ai-prompt-engineering"
+  ],
+  "skills": "./skills",
+  "interface": {
+    "displayName": "Manus Ai Prompt Engineering",
+    "shortDescription": "AI and prompt engineering: LLM apps, agents, RAG, evals",
+    "longDescription": "AI and prompt engineering: LLM apps, agents, RAG, evals",
+    "developerName": "onfire7777",
+    "category": "skills",
+    "capabilities": [
+      "skills"
+    ]
+  }
+}

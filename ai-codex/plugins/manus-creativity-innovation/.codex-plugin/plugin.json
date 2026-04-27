@@ -1,0 +1,28 @@
+{
+  "name": "manus-creativity-innovation",
+  "version": "1.0.0",
+  "description": "Creativity and innovation: creative writing, art, ideation",
+  "author": {
+    "name": "onfire7777",
+    "url": "https://github.com/onfire7777"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/onfire7777/manus-skills-codex/tree/main/plugins/manus-creativity-innovation",
+  "repository": "https://github.com/onfire7777/manus-skills-codex",
+  "keywords": [
+    "skills",
+    "codex",
+    "creativity-innovation"
+  ],
+  "skills": "./skills",
+  "interface": {
+    "displayName": "Manus Creativity Innovation",
+    "shortDescription": "Creativity and innovation: creative writing, art, ideation",
+    "longDescription": "Creativity and innovation: creative writing, art, ideation",
+    "developerName": "onfire7777",
+    "category": "skills",
+    "capabilities": [
+      "skills"
+    ]
+  }
+}

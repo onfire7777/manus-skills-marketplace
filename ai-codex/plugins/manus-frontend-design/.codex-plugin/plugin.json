@@ -1,0 +1,28 @@
+{
+  "name": "manus-frontend-design",
+  "version": "1.0.0",
+  "description": "Frontend and design: UI/UX, web frontend, design systems, accessibility",
+  "author": {
+    "name": "onfire7777",
+    "url": "https://github.com/onfire7777"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/onfire7777/manus-skills-codex/tree/main/plugins/manus-frontend-design",
+  "repository": "https://github.com/onfire7777/manus-skills-codex",
+  "keywords": [
+    "skills",
+    "codex",
+    "frontend-design"
+  ],
+  "skills": "./skills",
+  "interface": {
+    "displayName": "Manus Frontend Design",
+    "shortDescription": "Frontend and design: UI/UX, web frontend, design systems, accessibility",
+    "longDescription": "Frontend and design: UI/UX, web frontend, design systems, accessibility",
+    "developerName": "onfire7777",
+    "category": "skills",
+    "capabilities": [
+      "skills"
+    ]
+  }
+}

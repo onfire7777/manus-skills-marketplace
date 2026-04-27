@@ -1,0 +1,28 @@
+{
+  "name": "manus-backend-architecture",
+  "version": "1.0.0",
+  "description": "Backend architecture: APIs, system design, distributed systems, databases",
+  "author": {
+    "name": "onfire7777",
+    "url": "https://github.com/onfire7777"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/onfire7777/manus-skills-codex/tree/main/plugins/manus-backend-architecture",
+  "repository": "https://github.com/onfire7777/manus-skills-codex",
+  "keywords": [
+    "skills",
+    "codex",
+    "backend-architecture"
+  ],
+  "skills": "./skills",
+  "interface": {
+    "displayName": "Manus Backend Architecture",
+    "shortDescription": "Backend architecture: APIs, system design, distributed systems, databases",
+    "longDescription": "Backend architecture: APIs, system design, distributed systems, databases",
+    "developerName": "onfire7777",
+    "category": "skills",
+    "capabilities": [
+      "skills"
+    ]
+  }
+}

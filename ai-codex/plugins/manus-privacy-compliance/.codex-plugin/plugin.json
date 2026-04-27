@@ -1,0 +1,28 @@
+{
+  "name": "manus-privacy-compliance",
+  "version": "1.0.0",
+  "description": "Privacy and compliance: GDPR/CCPA/HIPAA, DPIAs, AI Act, ISO 27701",
+  "author": {
+    "name": "onfire7777",
+    "url": "https://github.com/onfire7777"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/onfire7777/manus-skills-codex/tree/main/plugins/manus-privacy-compliance",
+  "repository": "https://github.com/onfire7777/manus-skills-codex",
+  "keywords": [
+    "skills",
+    "codex",
+    "privacy-compliance"
+  ],
+  "skills": "./skills",
+  "interface": {
+    "displayName": "Manus Privacy Compliance",
+    "shortDescription": "Privacy and compliance: GDPR/CCPA/HIPAA, DPIAs, AI Act, ISO 27701",
+    "longDescription": "Privacy and compliance: GDPR/CCPA/HIPAA, DPIAs, AI Act, ISO 27701",
+    "developerName": "onfire7777",
+    "category": "skills",
+    "capabilities": [
+      "skills"
+    ]
+  }
+}

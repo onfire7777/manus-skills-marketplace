@@ -1,0 +1,28 @@
+{
+  "name": "manus-data-analysis",
+  "version": "1.0.0",
+  "description": "Data analysis: analytics, viz, statistics, ML/data pipelines",
+  "author": {
+    "name": "onfire7777",
+    "url": "https://github.com/onfire7777"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/onfire7777/manus-skills-codex/tree/main/plugins/manus-data-analysis",
+  "repository": "https://github.com/onfire7777/manus-skills-codex",
+  "keywords": [
+    "skills",
+    "codex",
+    "data-analysis"
+  ],
+  "skills": "./skills",
+  "interface": {
+    "displayName": "Manus Data Analysis",
+    "shortDescription": "Data analysis: analytics, viz, statistics, ML/data pipelines",
+    "longDescription": "Data analysis: analytics, viz, statistics, ML/data pipelines",
+    "developerName": "onfire7777",
+    "category": "skills",
+    "capabilities": [
+      "skills"
+    ]
+  }
+}

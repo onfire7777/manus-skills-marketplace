@@ -1,0 +1,28 @@
+{
+  "name": "manus-reasoning-thinking",
+  "version": "1.0.0",
+  "description": "Reasoning and thinking: mental models, critical thinking, epistemics",
+  "author": {
+    "name": "onfire7777",
+    "url": "https://github.com/onfire7777"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/onfire7777/manus-skills-codex/tree/main/plugins/manus-reasoning-thinking",
+  "repository": "https://github.com/onfire7777/manus-skills-codex",
+  "keywords": [
+    "skills",
+    "codex",
+    "reasoning-thinking"
+  ],
+  "skills": "./skills",
+  "interface": {
+    "displayName": "Manus Reasoning Thinking",
+    "shortDescription": "Reasoning and thinking: mental models, critical thinking, epistemics",
+    "longDescription": "Reasoning and thinking: mental models, critical thinking, epistemics",
+    "developerName": "onfire7777",
+    "category": "skills",
+    "capabilities": [
+      "skills"
+    ]
+  }
+}

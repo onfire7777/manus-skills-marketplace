@@ -1,0 +1,28 @@
+{
+  "name": "manus-security",
+  "version": "1.0.0",
+  "description": "Security skills: pentesting, exploits, hardening, crypto, AppSec/NetSec",
+  "author": {
+    "name": "onfire7777",
+    "url": "https://github.com/onfire7777"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/onfire7777/manus-skills-codex/tree/main/plugins/manus-security",
+  "repository": "https://github.com/onfire7777/manus-skills-codex",
+  "keywords": [
+    "skills",
+    "codex",
+    "security"
+  ],
+  "skills": "./skills",
+  "interface": {
+    "displayName": "Manus Security",
+    "shortDescription": "Security skills: pentesting, exploits, hardening, crypto, AppSec/NetSec",
+    "longDescription": "Security skills: pentesting, exploits, hardening, crypto, AppSec/NetSec",
+    "developerName": "onfire7777",
+    "category": "skills",
+    "capabilities": [
+      "skills"
+    ]
+  }
+}

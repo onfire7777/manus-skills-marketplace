@@ -1,0 +1,28 @@
+{
+  "name": "manus-domain-specific",
+  "version": "1.0.0",
+  "description": "Narrow verticals: medical, legal, finance, scientific domains",
+  "author": {
+    "name": "onfire7777",
+    "url": "https://github.com/onfire7777"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/onfire7777/manus-skills-codex/tree/main/plugins/manus-domain-specific",
+  "repository": "https://github.com/onfire7777/manus-skills-codex",
+  "keywords": [
+    "skills",
+    "codex",
+    "domain-specific"
+  ],
+  "skills": "./skills",
+  "interface": {
+    "displayName": "Manus Domain Specific",
+    "shortDescription": "Narrow verticals: medical, legal, finance, scientific domains",
+    "longDescription": "Narrow verticals: medical, legal, finance, scientific domains",
+    "developerName": "onfire7777",
+    "category": "skills",
+    "capabilities": [
+      "skills"
+    ]
+  }
+}

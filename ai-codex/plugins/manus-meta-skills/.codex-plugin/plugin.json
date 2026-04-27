@@ -1,0 +1,28 @@
+{
+  "name": "manus-meta-skills",
+  "version": "1.0.0",
+  "description": "Meta-skills: skill creation, learning, productivity",
+  "author": {
+    "name": "onfire7777",
+    "url": "https://github.com/onfire7777"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/onfire7777/manus-skills-codex/tree/main/plugins/manus-meta-skills",
+  "repository": "https://github.com/onfire7777/manus-skills-codex",
+  "keywords": [
+    "skills",
+    "codex",
+    "meta-skills"
+  ],
+  "skills": "./skills",
+  "interface": {
+    "displayName": "Manus Meta Skills",
+    "shortDescription": "Meta-skills: skill creation, learning, productivity",
+    "longDescription": "Meta-skills: skill creation, learning, productivity",
+    "developerName": "onfire7777",
+    "category": "skills",
+    "capabilities": [
+      "skills"
+    ]
+  }
+}

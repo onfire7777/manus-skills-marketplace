@@ -1,0 +1,28 @@
+{
+  "name": "manus-communication",
+  "version": "1.0.0",
+  "description": "Communication: writing, presentations, facilitation, leadership",
+  "author": {
+    "name": "onfire7777",
+    "url": "https://github.com/onfire7777"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/onfire7777/manus-skills-codex/tree/main/plugins/manus-communication",
+  "repository": "https://github.com/onfire7777/manus-skills-codex",
+  "keywords": [
+    "skills",
+    "codex",
+    "communication"
+  ],
+  "skills": "./skills",
+  "interface": {
+    "displayName": "Manus Communication",
+    "shortDescription": "Communication: writing, presentations, facilitation, leadership",
+    "longDescription": "Communication: writing, presentations, facilitation, leadership",
+    "developerName": "onfire7777",
+    "category": "skills",
+    "capabilities": [
+      "skills"
+    ]
+  }
+}
